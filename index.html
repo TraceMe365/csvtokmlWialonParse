@@ -21,7 +21,12 @@ $(document).ready(function(){
         });
     function processData(data){
         var rows = data.split('\n');
-        var kml = "";
+        var kml = `<?xml version="1.0" encoding="utf-8"?>
+                    <kml>
+                        <Document>
+                            <name>
+                                Geofences
+                            </name>`;
         $.each(rows, function (index, row) {
             var columns = row.split(',');
             var name      = columns[0];
@@ -47,7 +52,9 @@ $(document).ready(function(){
            
            kml+=string;
         });
-        console.log(kml)
+        kml+=(`
+            </Document>        
+        </kml>`);
         kml = kml.replace(/&/g, '&amp;')
                       .replace(/</g, '&lt;')
                       .replace(/>/g, '&gt;')
