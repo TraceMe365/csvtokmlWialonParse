@@ -1,0 +1,2480 @@
+<?xml version="1.0" encoding="utf-8"?>
+                        <kml>
+                            <Document>
+                                <name>
+                                    Geofences
+                                </name>
+                    <Placemark>
+                    <name>
+                        Shop Name
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            NaN,NaN,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Layley Paints
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8510646,6.9235644,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Sisila Paint Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.86454,6.9418457,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        A.H.S Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8559199,6.9348564,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Lanley Decorators  Nippon Paint CCM
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8669616,6.8849164,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Lanley Paint Center
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8529675,6.9018317,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        New Unic Paints
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8778078,6.9165566,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        New Pradeepa Paint Centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8699379,6.93493,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Genuine Paints (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8644726,6.9424198,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Genuine Paint Centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8723307,6.9478749,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Mascon Paint
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.862705,6.8667061,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Ceylon Paint Center
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8658077,6.9338262,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Nippon Paint Lanka (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9023018,6.9101685,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Ahmedsons
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8643584,6.9415958,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Dulux Company Showroom
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8824233,6.8883922,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        R3 Paint Store
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9075018,6.794851,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        dulux paint dealer
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9066041,6.7140558,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Savoy Paint Centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8634651,6.8653379,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Anusan Paint Center  Nippon Paints CCM
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8652669,6.9414433,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Western Paint Center
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8682261,6.961019,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Norex Paint shop
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9104631,6.9131028,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Multi Paints And Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8833761,6.8492899,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Akzonobel Paints Lanka (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8528476,6.9232633,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Nippon Hardware And Paints
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.857119,6.8975925,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Enterprises
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8599348,6.8860343,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Evershine Paint Showroom
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8638399,6.941588,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Wapp Paints at lalsons
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8511937,6.9061279,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Roxy Paint Center
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8633032,6.8655558,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Trust Hardware and Paints (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8641475,6.944428,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Noor Trades
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.852908,6.9385894,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Design Paints
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8873891,6.8865148,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Rock Paints
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8545799,6.9217516,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        m.m.m.sahul hameed(pvt)ltd.
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8531379,6.9387196,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Mohamed Mahathum Paint Shop
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8511771,6.9235207,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Union Paint Shop (Pvt) Ltd.
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8505051,6.9239945,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        J.k.Tin
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8757446,6.930392,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Yenud Paint Center
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8949002,6.8609973,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        G.K. Paint House
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8750861,6.9310677,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        PAINT SHOP KELANIYA
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8904395,6.9582748,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        DUSAN PAINT CENTRE
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8654103,6.9421617,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Color Bank
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8903827,6.876621,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        UNIQUE Enterprises
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8772082,6.9304486,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        JAT Experience Center |Tech Center Nawala
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8863652,6.8874012,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Vision Paint and Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8675317,6.9446092,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        nawala Sudu Aiya
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8864454,6.8902066,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Kotte Paint Centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9062517,6.898126,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        MAHAJANA PAINT CENTRE
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8903748,6.8764647,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Brightway Paint
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.862705,6.8667061,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Golden Paradise Paint (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9024825,6.8835594,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Multy Paints  Hardware Pvt Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8660092,6.8459506,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        JAT Tech Center Kollupitiya
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.852436,6.9090294,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Welikada Paint Shop
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.899005,6.9083661,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Kumaru paints
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8984213,6.8747609,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Car Refinish Colour center
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8595528,6.9198195,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Asantha Tinker and Paint Garage
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8757446,6.9657623,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Sudath Paint Center
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9112745,6.855954,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Aruna Paint Center Decorative Showroom
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.890927,6.8551879,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Mahanama Paint Center
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9099398,6.8836346,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        New rainbow
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8695329,6.8812034,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Chathur Enterprises Paints
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8903881,6.8762587,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Robbialac paint shop - Kohuwala
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8859408,6.8650984,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Pasindu Hardware  Paint Centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.902199,6.8854209,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Anushan Trading
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8652724,6.9413804,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Mekulu Paints
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9026847,6.8886673,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Pramithi Paint Works
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8970064,6.8827833,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Automotive Paint Shop
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8969191,6.9206129,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Aruna Paint Center
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8920214,6.8564276,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Dulanja Agencies (Pvt) Ltd - Nippon Paint Colour Creations
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.892254,6.9107844,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Varna - වර්ණ
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9029251,6.8888285,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Robbialac Paint Shop - Dehiwala
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8634562,6.8620487,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Robbialac Paint Shop -Rathmalana
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8712744,6.8229515,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        ANUSHA TRADING
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8635845,6.9394625,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        THE COLOR FACTORY
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8506115,6.9382229,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        The Hardware and Paint Centre Asala Steel (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9251861,6.7995972,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Colorcraft Lanka (Private) Limited
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8520582,6.9391147,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        New Dodampe (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8909624,6.875194,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Granite and Marble villa (pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8884871,6.8916399,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Display Boards for Street Artists
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8605039,6.911273,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Convenia Paints and Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8535084,6.9005024,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Ashraf Brothers
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8520083,6.9238894,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Chamil Hardware  Nippon Paint CCM
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8993199,6.8755109,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Mirbaha Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8616954,6.8721218,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        JEYA DECOR
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8636991,6.9430219,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Artworld
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8637715,6.8615675,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        ASIAN HARDWARE (PTE) LTD
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.860151,6.9419197,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        City Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8527287,6.9353791,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Darshana Paint House | CIC Dulux Paint Shops
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            80.0281544,6.9783229,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Crystal palace hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8521193,6.9137053,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        D  S Paint Center
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8760899,6.8524751,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        DOOR DECOR (PVT ) LTD.
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8649959,6.9420681,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        HH Paint
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9021715,6.883062,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Sigma Enterprises
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8661288,6.9357998,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Elahi Hardware stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8512036,6.9237691,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Emtek Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8606687,6.9418677,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        H C HARDWARE
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8857841,6.8874483,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        S.S.K. Hardware  Electronicals
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8792907,6.8841498,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Techno Lanka hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8822003,6.8883708,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        GATEWAY HARDWARE (PVT) LTD
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8826668,6.8687211,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Elegant Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8870698,6.8846352,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Central Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8691338,6.882959,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        HILTON PAINTS  HARDWARE
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.851108,6.9235807,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        St.Anthony’s HOMEMART
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8936723,6.8991635,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Pamankada Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.872198,6.8781921,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Pamankada Hardware - Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8750186,6.8812642,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Laksevana Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8687101,6.883494,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Buddhika Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8941734,6.9000447,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        "Quality Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            6.8959665,378,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        BOB Hardware (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8910153,6.8798141,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        New Hardware Store
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8776684,6.9136232,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Colombo Hardware Company
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8751267,6.8788116,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Janahitha Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8765646,6.8779243,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Serendib Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8602539,6.9394048,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Kalubowila Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8711402,6.8650621,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Chandra Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8651054,6.941008,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Rayen Electricals  Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8705287,6.8935156,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Aroosia Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8872645,6.8861171,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        New saraswathy Hardware Stores p.v.t
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8663835,6.9360238,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        HYLAC Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8557547,6.8930269,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Kalyani Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8625637,6.9397795,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Raniyo (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8882776,6.8905743,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Moon Hardware Centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.863638,6.9406089,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        N N Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8830206,6.8875925,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        NARA Enterprises
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8768758,6.8949944,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Popular Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8618889,6.9412154,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Makgeon Hardware Centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8646819,6.9399116,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        S.V HARDWARE STORES
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8638725,6.9396253,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        New Mahajana Hardware  Electricals
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8902983,6.8765593,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        China Hardware Colombo
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            80.70625,7.857685,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        St. Anthony's Hardware (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.866432,6.9388733,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Lucky Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8651705,6.9415798,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        HUSSAIN HARDWARE
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8656645,6.9398054,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Siripala Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8754787,6.9299715,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Ultimate Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8649095,6.9399458,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        DD HARDWARE STORE
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8640381,6.9433842,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        NIRMALA TRADERS
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8661745,6.9352987,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Ceylon Hardware Trading (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.862559,6.9392133,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        A.C.Paul  Company Ltd.
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8663946,6.935511,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        MAX CERAMICS (PVT) LTD
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.886203,6.888652,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Platinum Hardware  Electricals
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8637511,6.9330757,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Amna hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8644813,6.9229054,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        New St. Anthony's Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8669857,6.9450181,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Naleer Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8675981,6.9251377,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Hassims Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8643121,6.9409699,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Melban Hardware Pvt Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8622467,6.9409805,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Platinum Hardware (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8655458,6.9401093,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        FB Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8627056,6.9411679,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Aqmar Hardware Centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8635999,6.9395161,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Husen Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.866495,6.9384395,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Lucky Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8625313,6.9428519,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Raiwin Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8652874,6.9413251,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        M. M. Noorbhoy  Co (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8505894,6.9246584,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        M.N. Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8897711,6.8934169,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Multy Tools  Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8514421,6.9235988,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Thilanka Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8643732,6.9400089,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Noorsons Hardware and Electrical
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8620942,6.9271496,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Al Reef Traders (pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8528583,6.9362369,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Aruna Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8628629,6.9394558,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Paint and Paper (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.873401,6.8742733,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Western Traders
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8623005,6.9399727,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Bismi trading Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8649822,6.9269913,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        COLOMBO HARDWARE
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8612956,6.9406355,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        crystal hardware pvt ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.862023,6.9390627,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Lanka Tools
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8767147,6.9015855,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Hardware house
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8629668,6.94109,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        A.R.Hardware Centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8631362,6.939284,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Capital Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8608798,6.9393934,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Naufar Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8664924,6.9382888,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Paints.lk
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8909632,6.9556485,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Kariyapperuma Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8907782,6.8763962,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        The Adela Trading Company
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8633631,6.9412414,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Kamsons Trading Company (Pvt) Ltd - Showroom
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8603711,6.9394183,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Pettah Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8625927,6.9400929,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Mayura Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8626875,6.9402955,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Yamama Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8635687,6.9395953,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Asmi Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8665021,6.9382082,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Best Lanka Hardware Stores (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8775193,6.9306562,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Global Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8603046,6.9403328,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        New Wembly Trading ( PVT)
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8609973,6.9394998,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Best Tools and Safty Holding
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8661835,6.9372091,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Colonial Engineering (Pvt) Ltd.
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8651683,6.9407489,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Richards Tools (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8603116,6.9326912,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Ariyaratne Trade Centre (Pvt) Ltd
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8649679,6.9399461,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        A-Grade Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8710747,6.9455713,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Romax Hardware Centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8569617,6.9387369,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Yale Sri Lanka
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8896036,6.8938957,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Winway Tools Centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8662051,6.9370089,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        S. M. Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8777297,6.930623,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Sena Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8772198,6.8930148,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Sudilana Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.889702,6.8906001,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        TSR Hardware Stores
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8624397,6.9400337,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        YNS Paints  Hardwares (PVT) LTD.
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8511588,6.9237475,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        JANASHAKTHE HARDWARE
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8620013,6.9413768,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        S.A. Welgama House
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8659773,6.9351219,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        J.J LANKA (Pvt)
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8602644,6.9392039,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Dewdunu Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9040605,6.9371997,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Astro Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8639483,6.9406907,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Pathirana Hardware
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.9269571,6.815876,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        J.A Tools Corner
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8662811,6.9361634,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Good Luck Traders
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.86494,6.941389,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        KINGTONY LANKA TRADERS
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8664901,6.9365319,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Kailaash hardware centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8646663,6.9406909,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        BUILDERS WORLD LANKA (PVT) LTD
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8617732,6.9407934,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Nemco Trading Centre
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8625665,6.9396761,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        SMJ Enterprises
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8641353,6.9407247,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        Sricorn
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            79.8627485,6.9391151,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                    <Placemark>
+                    <name>
+                        
+                    </name>
+                    <description color="9900ffff" width="21">
+                    </description>
+                    <Point>
+                        <coordinates>
+                            NaN,NaN,0
+                        </coordinates>
+                    </Point>
+                    </Placemark>
+                </Document>        
+            </kml>
